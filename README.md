@@ -11,6 +11,7 @@ I build real-time mobile apps, 3D graphics engines, and intelligent systems.
 ## 🚀 Projects
 | Project | Tech | What it does |
 |---|---|---|
+| [OmniBank AI Platform](https://github.com/Shreya3048/Omnibank-AI-Platform) | Flutter, Python, Gemini 2.0, FastAPI, Kafka | Emotion-aware bilingual AI kiosk for public sector banks — replaces human tellers with conversational AI agent (Hindi + English) |
 | [3D Solar System Engine](https://github.com/Shreya3048/Solar-System-Model) | C++, OpenGL, GLSL | Renders 4000+ celestial bodies with Phong lighting & 6-DOF camera |
 | [Aadhaar Darpan](https://github.com/Anishk362/aadhaar-darpan) | Flutter, Dart | National intelligence audit dashboard for UIDAI Hackathon 2026 |
 | [RGIPT Bus Tracker](https://github.com/Anishk362/Rgipt_BusTracker) | Flutter, Firebase | Live campus transit tracking with real-time bus location |
